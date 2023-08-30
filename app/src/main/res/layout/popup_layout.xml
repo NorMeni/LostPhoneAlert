@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:padding="16dp"
+    >
+
+    <TextView
+        android:id="@+id/popupText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What is Phone Alert System? It's an app designed to help you find your phone when you lose it, as well as helping whoever finds your phone return it to you. Click 'Add a contact' to get started!"
+        android:textSize="32sp" />
+
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"/>
+
+</LinearLayout>

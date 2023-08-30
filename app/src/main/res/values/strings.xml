@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LostPhoneAlert</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_about_page">AboutPage</string>
+</resources>
